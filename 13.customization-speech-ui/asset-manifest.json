@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BotFramework-WebChat/13.customization-speech-ui/static/css/main.86d1088d.chunk.css",
+    "main.js": "/BotFramework-WebChat/13.customization-speech-ui/static/js/main.121fe7ff.chunk.js",
+    "main.js.map": "/BotFramework-WebChat/13.customization-speech-ui/static/js/main.121fe7ff.chunk.js.map",
+    "runtime~main.js": "/BotFramework-WebChat/13.customization-speech-ui/static/js/runtime~main.100942fb.js",
+    "runtime~main.js.map": "/BotFramework-WebChat/13.customization-speech-ui/static/js/runtime~main.100942fb.js.map",
+    "static/js/2.0dcf7e0c.chunk.js": "/BotFramework-WebChat/13.customization-speech-ui/static/js/2.0dcf7e0c.chunk.js",
+    "static/js/2.0dcf7e0c.chunk.js.map": "/BotFramework-WebChat/13.customization-speech-ui/static/js/2.0dcf7e0c.chunk.js.map",
+    "index.html": "/BotFramework-WebChat/13.customization-speech-ui/index.html",
+    "precache-manifest.7430211298bf39e0b93774dd102b7fc1.js": "/BotFramework-WebChat/13.customization-speech-ui/precache-manifest.7430211298bf39e0b93774dd102b7fc1.js",
+    "service-worker.js": "/BotFramework-WebChat/13.customization-speech-ui/service-worker.js",
+    "static/css/main.86d1088d.chunk.css.map": "/BotFramework-WebChat/13.customization-speech-ui/static/css/main.86d1088d.chunk.css.map"
+  }
+}
